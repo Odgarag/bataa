@@ -70,7 +70,7 @@ n .container {
   justify-content: center;
   align-items: center;
 }
-.sun {
+.sun2 {
   width: 100px;
   height: 100px;
   background-color: yellow;
@@ -85,7 +85,7 @@ n .container {
     transform: rotate(360deg);
   }
 }
-.mercury__orbit {
+.mercury__orbit2 {
   width: 300px;
   height: 300px;
   border: 2px dashed red;
@@ -93,14 +93,13 @@ n .container {
   border-radius: 100%;
   animation: sunrotate 3s linear infinite;
 }
-.mercury {
+.mercury2 {
   width: 20px;
   height: 20px;
   background-color: blue;
   border-radius: 100%;
   margin: auto;
   transform: translatey(-50%);
-   
 }
 .venus__orbit {
   width: 350px;
